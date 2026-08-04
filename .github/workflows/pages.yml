@@ -54,10 +54,6 @@ jobs:
         id: package
         run: npm run package
 
-      - name: Setup GitHub Pages
-        id: configure-pages
-        uses: actions/configure-pages@v5
-
       - name: Upload Artifact
         id: upload-artifact
         uses: actions/upload-pages-artifact@v3

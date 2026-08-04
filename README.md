@@ -6,6 +6,10 @@
 ![Coverage](./badges/coverage.svg)
 ![Linter](https://github.com/githubschool/gh-github-intermediate-template/actions/workflows/linter.yml/badge.svg)
 
+# GitHub Intermediate - Project Repository
+
+This is an update to the README.md file!!!!!
+
 This is your project repository for the GitHub Intermediate training offering.
 Within this repository, you will find a number of issues that you will be
 working on throughout the training. The final completed project will be a

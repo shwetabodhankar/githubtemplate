@@ -8,7 +8,7 @@
 
 # GitHub Intermediate - Project Repository
 
-This is an update to the README.md file!!!!!
+This is a second update to the README.md file!!!!!
 
 This is your project repository for the GitHub Intermediate training offering.
 Within this repository, you will find a number of issues that you will be
